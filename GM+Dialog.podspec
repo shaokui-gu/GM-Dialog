@@ -8,6 +8,6 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/shaokui-gu/GM-Dialog.git" }
   s.source_files = 'Sources/*.swift'
   s.swift_versions = ['5.2', '5.3', '5.4']
-  s.dependency 'GM', '~> 0.0.8'
+  s.dependency 'GM', '~> 0.0.9'
   s.requires_arc = true
 end

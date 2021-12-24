@@ -8,6 +8,7 @@
 
 import Foundation
 import UIKit
+import GM
 
 public typealias AlertActionCallBack = (UIAlertAction) -> Void
 

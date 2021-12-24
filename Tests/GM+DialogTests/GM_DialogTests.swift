@@ -1,4 +1,5 @@
 import XCTest
+@testable import GM
 @testable import GM_Dialog
 
 final class GM_DialogTests: XCTestCase {
@@ -6,6 +7,6 @@ final class GM_DialogTests: XCTestCase {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(GM_Dialog().text, "Hello, World!")
+        XCTAssertTrue(true)
     }
 }
