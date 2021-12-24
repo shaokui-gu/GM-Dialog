@@ -1,2 +1,3 @@
-# GM-Dialog
-A Dialog Extension for GM
+# GM+Dialog
+
+A description of this package.
