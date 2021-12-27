@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "GM+Dialog"
-  s.version      = "0.0.1"
+  s.version      = "0.0.4"
   s.summary      = "A Dialog Extension for GM"
   s.homepage     = "https://github.com/shaokui-gu/GM-Dialog"
   s.license      = 'MIT'

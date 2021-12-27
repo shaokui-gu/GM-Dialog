@@ -5,9 +5,9 @@
         "package": "GM",
         "repositoryURL": "https://github.com/shaokui-gu/GM.git",
         "state": {
-          "branch": null,
-          "revision": "653231147772bc373531437d2c26010d94cfe6f8",
-          "version": "0.0.8"
+          "branch": "main",
+          "revision": "d6d504bac3480e48b1294d18c69b9f81b28a648c",
+          "version": null
         }
       },
       {
